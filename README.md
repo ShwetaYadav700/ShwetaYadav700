@@ -1,4 +1,4 @@
-[![MasterHead](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)
+[![MasterHead]](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Shweta yadav</h1>
