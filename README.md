@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shweta yadav</h1>
-<h3 align="center">Frontend web Developer || BCA || Intern At Brain Bytes ||Intern at Prodigy Infotech ||Intern At Bharat Intern</h3>
+<h3 align="center">Frontend web Developer || BCA || Intern At Brain Bytes ||Intern At Bharat Intern</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/front-end-developer-icon-vector-woman-work-laptop_88813-2677.jpg?w=2000">
 
 - 🔭 I’m currently working on [Brain Bytes](https://github.com/Thebeast01/Pre-Final-Brain-Bytes.git)
