@@ -18,7 +18,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shweta yadav</h1>
-<h3 align="center">Frontend web Developer || BCA || Intern At Brain Bytes ||Intern at Prodigy Infotech ||Intern At Bharat Intern</h3>
+<h3 align="center">Frontend web Developer || BCA || Intern At Brain Bytes ||Intern At Bharat Intern</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetayadav700&label=Profile%20views&color=0e75b6&style=flat" alt="shwetayadav700" /> </p>
 
